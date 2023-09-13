@@ -33,9 +33,11 @@ text-align: center;}
 #lila{background-color: blueviolet;
      text-align: center;}
 
-#tartalom{float: right;}
+#tartalom{float: right;
+width: 600px;}
 
-#menu{float: left;}
+#menu{float: left;
+width: 400px;}
 
 #szazhusz{width: 120pt;
      text-align: center;}
